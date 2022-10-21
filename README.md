@@ -32,7 +32,7 @@ Creating a feeling of scarcity instead of the newsletter usual ras-le-bol
 
 Are as many paths to trigger the users' interest.
 
-ISKIV-ON-DEMAND-EMAIL-DELIVERY 
+ISKIV-ON-DEMAND-NEWS-DELIVERY 
 
 This simple powerful solution offers a language agnostic app to fulfill the publisher goals
 
